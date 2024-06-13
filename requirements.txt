@@ -11,4 +11,6 @@ tiktoken
 pinecone-client 
 scikit-learn
 ruff
+python-dotenv
+os
 git+https://github.com/openai/whisper.git
