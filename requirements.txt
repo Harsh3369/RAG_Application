@@ -14,3 +14,5 @@ ruff
 python-dotenv
 os
 git+https://github.com/openai/whisper.git
+chromadb 
+pypdf
