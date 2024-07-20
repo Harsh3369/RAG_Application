@@ -1,4 +1,4 @@
-Below are the steps, for running LLM app using OLLMA:
+Below are the steps, for running LLM app without a GPU using OLLMA:
 
 - Open code space or vs code localy
 - Downlaod the ollma for windows from github or in linux run command [curl -fsSL https://ollama.com/install.sh | sh] in your terminal
